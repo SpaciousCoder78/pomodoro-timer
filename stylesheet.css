@@ -1,0 +1,6 @@
+body {margin:0; background-image: url(background.jpg); text-align: center;}
+p{text-align:center;background-color: black;color:white;display:inline-flex;font-size:50px;height: 70px; width:200px; align-items:center;justify-content: center;}
+button{font-size:25px;height:45px;width:150px}
+h1{color: white;}
+h3{color:white}
+button{background-color: black;color:white}

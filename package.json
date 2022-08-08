@@ -1,0 +1,11 @@
+{
+    "name": "pomodoro_timer",
+    "version": "1.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^20.0.1"
+    },
+    "scripts": {
+        "start":"electron ."
+    }
+}
